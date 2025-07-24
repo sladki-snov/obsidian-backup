@@ -11,32 +11,13 @@
             "id": "229bc46e8a075c39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMake.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CMake"
-            }
-          },
-          {
-            "id": "c9cfae05f6626ff5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,18 +164,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9cfae05f6626ff5",
+  "active": "229bc46e8a075c39",
   "lastOpenFiles": [
-    "Углубленное изучение.md",
-    "Git.md",
+    "С++/C++.md",
+    "С++",
     "Programming.md",
-    "Untitled.md",
-    "CMake.md",
-    "Видео первое(CMake).md",
-    "Tutorials(Code tech).md",
+    "CMake/Системы сборки.md",
     "compiler and its flags.md",
-    "Linux.md",
-    "Видео первое(LPIC).md",
-    "плейлисты Семаева по LPIC.md"
+    "Linux/Семаев плейлист по LPIC/плейлисты Семаева по LPIC.md",
+    "Linux/Linux.md",
+    "Linux/Семаев плейлист по LPIC/Видео первое.md",
+    "Linux/Семаев плейлист по LPIC",
+    "Linux",
+    "CMake/CMake course(Code, Tech, and Tutorials/Видео первое.md",
+    "CMake/CMake course(Code, Tech, and Tutorials/Tutorials(Code tech).md",
+    "CMake/CMake course(Code, Tech, and Tutorials)/Видео первое.md",
+    "CMake/CMake course(Code, Tech, and Tutorials)",
+    "CMake/CMake course(Code, Tech, and Tutorials",
+    "CMake",
+    "Git.md",
+    "Углубленное изучение.md",
+    "Untitled.md"
   ]
 }
