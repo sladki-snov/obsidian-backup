@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "Git/Состояния файлов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "Состояния файлов"
             }
           }
         ]
@@ -165,11 +165,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "229bc46e8a075c39",
   "lastOpenFiles": [
+    "Git/Стартовая настройка GIT.md",
+    "Git/Состояния файлов.md",
+    "Git/Git.md",
+    "Git/Git Pro Book.md",
+    "Untitled.canvas",
+    "Git",
     "С++/C++.md",
     "С++",
     "Programming.md",
@@ -186,7 +193,6 @@
     "CMake/CMake course(Code, Tech, and Tutorials)",
     "CMake/CMake course(Code, Tech, and Tutorials",
     "CMake",
-    "Git.md",
     "Углубленное изучение.md",
     "Untitled.md"
   ]
