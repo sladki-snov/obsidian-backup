@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "67272d7a4cfb34ca",
+        "id": "0980ea82142d2e8b",
         "type": "tabs",
         "children": [
           {
-            "id": "229bc46e8a075c39",
+            "id": "4d04ff6c84a59ca4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Игнорирование файлов.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Игнорирование файлов"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -169,27 +165,29 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "229bc46e8a075c39",
+  "active": "4d04ff6c84a59ca4",
   "lastOpenFiles": [
-    "Git/Состояния файлов.md",
-    "Игнорирование файлов.md",
-    "Git/Стартовая настройка GIT.md",
+    "Programming.md",
+    "CMake/CMake course(Code, Tech, and Tutorials/Tutorials(Code tech).md",
     "Git/Git.md",
+    "С++/C++.md",
+    "Linux/Семаев плейлист по LPIC/плейлисты Семаева по LPIC.md",
+    "Linux/Linux.md",
+    "Compiler and its flags.md",
+    "CMake/Системы сборки.md",
+    "Excalidraw/Drawing 2025-08-04 13.05.03.excalidraw.md",
+    "Excalidraw",
+    "Игнорирование файлов.md",
+    "Git/Состояния файлов.md",
+    "Git/Стартовая настройка GIT.md",
     "Git/Git Pro Book.md",
     "Untitled.canvas",
     "Git",
-    "С++/C++.md",
     "С++",
-    "Programming.md",
-    "CMake/Системы сборки.md",
-    "compiler and its flags.md",
-    "Linux/Семаев плейлист по LPIC/плейлисты Семаева по LPIC.md",
-    "Linux/Linux.md",
     "Linux/Семаев плейлист по LPIC/Видео первое.md",
     "Linux/Семаев плейлист по LPIC",
     "Linux",
     "CMake/CMake course(Code, Tech, and Tutorials/Видео первое.md",
-    "CMake/CMake course(Code, Tech, and Tutorials/Tutorials(Code tech).md",
     "CMake/CMake course(Code, Tech, and Tutorials)/Видео первое.md",
     "CMake/CMake course(Code, Tech, and Tutorials)",
     "CMake/CMake course(Code, Tech, and Tutorials",

@@ -1,4 +1,6 @@
 {
   "accentColor": "#bb0767",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Times New Roman"
 }
